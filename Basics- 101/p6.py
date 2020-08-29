@@ -1,0 +1,11 @@
+st=[]
+str1="aasdhThshas"
+s=str1.index("T")
+print(s)
+st=str1.split("T")
+li=[]
+li=st[1]
+str2="".join(li)
+str3="T"
+str4=str3+str2
+print(str4)
